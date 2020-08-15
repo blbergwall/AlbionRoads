@@ -5,5 +5,8 @@ Format: {zome name} / {size} / {day and time will **close**}
 ## Souitos-Oiozlum / 7 / 8-16 17:25
 
 * Firos-Aiavam / 20 / 8-16 5:00
+  * Razorrock Bank / 20 / 8-15 24:00
+  * Cieos-Atatlum / 7 / 8-15 20:35
+  * Murdergulch Ravine / 7 / 8-16 13:00
 * Battlebrae Grassland / 7 / 8-16 10:45
-* RazorrockGulch / 7 / 8-16  8:00
+* Razorrock Gulch / 7 / 8-16  8:00
