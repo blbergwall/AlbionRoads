@@ -1,6 +1,6 @@
-# Battlebrae Plain Roads Connections0
+# Battlebrae Plain Roads Connections
 
-Format: <zome name> / <size> / <day and time will **close**>
+Format: {zome name} / {size} / {day and time will **close**}
 
 ## Souitos-Oiozlum / 7 / 8-16 17:25
 
