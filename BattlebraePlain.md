@@ -1,6 +1,7 @@
 # Battlebrae Plain Roads Connections
 
 Format: {zome name} / {size} / {day and time will **close**}
+close time may not be exact
 
 ## Souitos-Oiozlum / 7 / 8-16 17:25
 
